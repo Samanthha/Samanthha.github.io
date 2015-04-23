@@ -1,0 +1,19 @@
+body {
+	background-color: #82A9FF;
+	color: black;
+	text-align: center;
+}
+
+h1 {
+	font-size: 26px;
+	font-weight: bold;
+
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#description {
+	font-style: bold;
+}

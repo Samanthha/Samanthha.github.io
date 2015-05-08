@@ -1,0 +1,32 @@
+body {
+	background-color: #82A9FF;
+	color: black;
+	text-align: center;
+}
+
+h1 {
+	font-size: 26px;
+	font-weight: bold;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+#slogan {
+	font-style: italic;
+	font-family: 'EB Garamond', serif;
+}
+
+#description {
+	font-weight: bold;
+	font-family: 'EB Garamond', serif;
+}
+
+ul {
+	text-align: left;
+	margin-left: 450px;
+	font-family: 'EB Garamond', serif;
+}
+
+img {
+	width:25%;
+}
